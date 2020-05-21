@@ -1,1 +1,2 @@
-a new file
+2nd change to my .txt file
+1st change to my .txt file
